@@ -8,6 +8,7 @@ module.exports = {
 
   
     themeConfig: {
+      authorAvatar: 'img/head.jpg',
       valineConfig: {
         showComment: false,
         
