@@ -5,8 +5,6 @@ module.exports = {
     theme: 'reco',
     author: '6yi',
   
-
-  
     themeConfig: {
       authorAvatar: 'img/head.jpg',
       valineConfig: {
